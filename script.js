@@ -1,3 +1,3 @@
 function check() {
-	alert("Ch-Check It Out") ;
+	alert(document.getElementById('inputElement')) ;
 }

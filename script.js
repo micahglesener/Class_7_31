@@ -1,3 +1,3 @@
 function check() {
-	alert(document.getElementById('inputElement')) ;
+	alert(document.getElementById('inputElement').value) ;
 }
